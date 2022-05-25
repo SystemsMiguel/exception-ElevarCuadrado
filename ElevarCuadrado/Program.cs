@@ -27,6 +27,12 @@ namespace ElevarCuadrado
                     continua = true;
                     Console.WriteLine("Solo se aceptan numeros enteros y no letras");
                     Console.WriteLine(e.Message);
+
+                }
+                catch (OverflowException ) 
+                {
+                    continua = true;
+                    Console.WriteLine("Valor no soportado, el numero es demasiado grande");
                     
                 }
             } while (continua==true);    
