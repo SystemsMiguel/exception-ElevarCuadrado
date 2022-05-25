@@ -29,11 +29,11 @@ namespace ElevarCuadrado
                     Console.WriteLine(e.Message);
 
                 }
-                catch (OverflowException ) 
+                catch (OverflowException e ) 
                 {
                     continua = true;
-                    Console.WriteLine("Valor no soportado, el numero es demasiado grande");
-                    
+                    Console.WriteLine("Valor no soportado");
+                    Console.WriteLine(e.Message);
                 }
             } while (continua==true);    
             Console.WriteLine("Presione enter para continuar");
