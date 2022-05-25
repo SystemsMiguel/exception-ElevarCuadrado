@@ -12,7 +12,7 @@ namespace ElevarCuadrado
         {
             //Declaracion de variabkes
             int number;
-            bool continua=true;
+            bool continua;
             do
             {
                 try
@@ -29,7 +29,7 @@ namespace ElevarCuadrado
                     Console.WriteLine(e.Message);
                     
                 }
-            } while (continua==true);
+            } while (continua==true);    
             Console.WriteLine("Presione enter para continuar");
             Console.ReadKey();
            
