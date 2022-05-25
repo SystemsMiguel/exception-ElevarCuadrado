@@ -1,0 +1,7 @@
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\bin\Debug\ElevarCuadrado.exe.config
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\bin\Debug\ElevarCuadrado.exe
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\bin\Debug\ElevarCuadrado.pdb
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\obj\Debug\ElevarCuadrado.csproj.AssemblyReference.cache
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\obj\Debug\ElevarCuadrado.csproj.CoreCompileInputs.cache
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\obj\Debug\ElevarCuadrado.exe
+C:\Users\CAN\Documents\GitHub\exception-ElevarCuadrado\ElevarCuadrado\obj\Debug\ElevarCuadrado.pdb
